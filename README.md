@@ -1,2 +1,4 @@
 # hello-World
-My first rep
+My first repo
+
+I am trying to undersand how this thing works...
